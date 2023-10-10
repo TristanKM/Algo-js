@@ -1,7 +1,7 @@
 var a = 3
 var b = 4
 var c = 3
-/*if (a == b)
+if (a == b)
 {
     console.log ("c'est egal")
 }
@@ -29,7 +29,7 @@ switch (a)
 
 for (let i = 0; i < a; i++){
     console.log("oklm")
-}*/
+}
 
 while(a < 9)
 {
