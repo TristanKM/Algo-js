@@ -32,7 +32,7 @@ let Salameche = new Pokemon("Salameche", 10, 20, 30, 0.75);
 
 let Bulbizare = new Pokemon("Bulbizare", 15, 40, 30, 0.25);
 
-while (Salameche.hp > 0 && Bulbizare.hp > 0)
+/*while (Salameche.hp > 0 && Bulbizare.hp > 0)
 {
     Salameche.attackPokemon(Bulbizare);
     console.log(`${Bulbizare.name} a ${Bulbizare.hp} points de vie restants.`);
@@ -49,5 +49,5 @@ while (Salameche.hp > 0 && Bulbizare.hp > 0)
       console.log(`${Salameche.name} est vaincu !`);
       break;
     }
-}
+}*/
   
