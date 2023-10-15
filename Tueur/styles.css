@@ -45,18 +45,3 @@ button:hover
     margin-top: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
-
-.result-icons 
-{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 20px;
-    font-size: 24px;
-    color: #ff5733;
-}
-
-.result-icons i 
-{
-    margin: 0 10px;
-}
