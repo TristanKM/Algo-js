@@ -1,11 +1,13 @@
-body {
+body 
+{
     font-family: 'Arial', sans-serif;
     text-align: center;
     background-color: #222;
     color: #fff;
 }
 
-.container {
+.container 
+{
     background-color: #333;
     padding: 20px;
     border-radius: 10px;
@@ -13,11 +15,13 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-h1 {
+h1 
+{
     color: #ff5733;
 }
 
-button {
+button 
+{
     background-color: #ff5733;
     color: #fff;
     padding: 10px 20px;
@@ -27,28 +31,17 @@ button {
     transition: background-color 0.3s;
 }
 
-button:hover {
+button:hover 
+{
     background-color: #ff4500;
 }
 
-.output-box {
+.output-box 
+{
     background-color: #444;
     color: #fff;
     padding: 20px;
     border-radius: 10px;
     margin-top: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-}
-
-.result-icons {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 20px;
-    font-size: 24px;
-    color: #ff5733;
-}
-
-.result-icons i {
-    margin: 0 10px;
 }
